@@ -1,11 +1,11 @@
-## Hi, I'm Tess!
+# Hi, I'm Tess!
 
 I'm a design-build nerd 🧑🏻‍💻🏗
 
 - **_Currently:_** Web Development AAS Student '24
 - **_Formerly:_** Furniture Maker / Designer / Woodworking Instructor
 
-### On My Workbench 🛠
+## On My Workbench 🛠
 
 - Advanced Scripting
   - MongoDB
@@ -16,7 +16,7 @@ I'm a design-build nerd 🧑🏻‍💻🏗
   - Systems Thinking
   - Project Management
 
-### In My Toolbox 🧰
+## In My Toolbox 🧰
 
 - JavaScript
 - CSS
@@ -25,7 +25,7 @@ I'm a design-build nerd 🧑🏻‍💻🏗
 - UX
 - Responsive Design
 
-### About Me 🙋🏻🏳️‍🌈
+## About Me 🙋🏻🏳️‍🌈
 
 My prior career was spent developing physical objects for humans to enjoy, and teaching others to do the same. From fancy chairs to wooden boats to theater sets, I designed, modeled, built and tested it all. Then I woke up one day and couldn't walk.
 
