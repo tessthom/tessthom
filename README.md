@@ -7,18 +7,15 @@ I'm a design-build nerd 🧑🏻‍💻🏗
 
 ## On My Workbench 🛠
 
-- Advanced Scripting
-  - MongoDB
-  - Express.js
-  - React
-  - Node.js
-- Business Information Systems
-  - Systems Thinking
-  - Project Management
+- ASP.NET Core MVC
+- PHP
 
 ## In My Toolbox 🧰
 
+- React
+- Node.js
 - JavaScript
+- MongoDB
 - CSS
 - HTML5
 - SQL
